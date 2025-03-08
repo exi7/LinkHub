@@ -1,15 +1,43 @@
-# LinkHub
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1337150216515621027/1347967888006582373/6b24108cd7c1e96d34c81732186b0bfb_upscaled.jpg?ex=67cdc06c&is=67cc6eec&hm=84dcf7f24edc5895e3e10c2cd3c609b4992cfaacecb2abc460d0a3914658aceb&">
+</p>
 
-This script is designed to help users manage and store contact information. It allows you to add, search, modify, and view details about individuals. You can register a person's name and associated details (such as phone number, address, email, etc.), store them in a file, and later search or update the information. It's an easy-to-use tool for keeping track of personal contacts with added customization options for categories and additional details.
+<h1 align="center">Contact Manager - Personal Contact Directory (V1.0)</h1>
+<p align="center">
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3.9-informational.svg">
+  </a>
+  <a href="https://github.com/YourGitHubUsername">
+    <img src="https://img.shields.io/github/repo-size/YourGitHubUsername/Contact-Manager.svg?label=Repo%20size&style=flat-square">
+  </a>
+</p>
 
-### Option 1: Register a New Contact 📖
-This option allows the user to add a new contact to the directory. The user can input a name and a phone number, and then add additional details (e.g., address, email, profession) by specifying categories. The contact’s information is saved in a central file and also in a separate file for the individual contact.
+<p align="center">
+  The Contact Manager is a simple Python-based script designed to manage personal contact information. It allows users to store, search, and modify contact details in a structured and easy-to-use manner.
+</p>
 
-### Option 2: View Contact Information 🪪
-This option lets the user search for and view contact information. You can search for a contact either by their name or by their phone number. If a match is found, the full details of the contact will be displayed. If no contact is found, an appropriate message will be shown.
+---
 
-### Option 3: Modify Contact Information ✏️
-With this option, the user can update the details of an existing contact. You can change the contact’s name, phone number, or modify the categories (e.g., address, email). If a category already exists, it can be updated, or new categories can be added. The updated information is then saved in both the central directory file and the individual contact’s file.
+## Disclaimer
 
-### Option 0: Exit 🚪
-This option allows the user to exit the program with a friendly exit message. The program will stop running when this option is selected.
+This script is designed for ethical use, specifically for managing and organizing contact information for personal purposes. It does not collect or misuse any personal data. Please use it responsibly and ensure that you have permission to manage any contact data.
+
+---
+
+## Features
+
+- [x] **Add New Contacts**: Users can easily add new contacts with a name, phone number, and customizable categories (such as email, address, profession, etc.).
+- [x] **Search Contacts**: Search for contacts either by name or phone number and view their complete details.
+- [x] **Modify Contact Information**: Edit existing contact information, add new categories, or update current details.
+- [x] **Data Storage**: Contact data is stored securely in both a global directory file and individual files for each contact.
+
+---
+
+## Installation
+
+To use this script, you'll need to have Python 3.9 or higher installed on your system.
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/YourGitHubUsername/Contact-Manager.git
