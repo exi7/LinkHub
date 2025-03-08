@@ -40,4 +40,4 @@ To use this script, you'll need to have Python 3.9 or higher installed on your s
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YourGitHubUsername/Contact-Manager.git
+git clone https://github.com/exi7/LinkHub.git
